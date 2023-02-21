@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lo5g99WpGM/QyijKAQr3dxtd9e0t0fdtlPZoOU9XQKNaC/GpUo5NZI09ForH5TcPaaZLMefo7s9d++sdAy+hrw==",
+  "dgSpecHash": "BYtA17zWjH6oKPMMEbmuZ5NbYrHWQrv2spBhQSmNxT4SsGuIHkB81uXU6+OqHJGDoo64rB10iI2dGskYAA5Eog==",
   "success": true,
   "projectFilePath": "C:\\Users\\Administrateur\\Documents\\TestAzure\\BackTestAzure\\BackTestAzure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrateur\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Administrateur\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Administrateur\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\Administrateur\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\Administrateur\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\Administrateur\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
