@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wBjO3qlvU2gZyygksRKBDAx6jZUxwyTJoB7IUrZWkOw=",
+  "Source": "BackTestAzure",
+  "BasePath": "_content/BackTestAzure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

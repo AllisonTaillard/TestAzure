@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GjfhvoAyy9HUNy1mr3zr5m6EgAqVm7hN8HRQ7gRekWU=",
+  "Source": "BackTestAzure",
+  "BasePath": "_content/BackTestAzure",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

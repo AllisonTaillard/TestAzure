@@ -1,0 +1,11 @@
+C:\Users\Administrateur\Documents\TestAzure\BackTestAzure\obj\Release\net6.0\PubTmp\Out\BackTestAzure.exe
+C:\Users\Administrateur\Documents\TestAzure\BackTestAzure\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Administrateur\Documents\TestAzure\BackTestAzure\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Administrateur\Documents\TestAzure\BackTestAzure\obj\Release\net6.0\PubTmp\Out\BackTestAzure.dll
+C:\Users\Administrateur\Documents\TestAzure\BackTestAzure\obj\Release\net6.0\PubTmp\Out\BackTestAzure.deps.json
+C:\Users\Administrateur\Documents\TestAzure\BackTestAzure\obj\Release\net6.0\PubTmp\Out\BackTestAzure.runtimeconfig.json
+C:\Users\Administrateur\Documents\TestAzure\BackTestAzure\obj\Release\net6.0\PubTmp\Out\BackTestAzure.pdb
+C:\Users\Administrateur\Documents\TestAzure\BackTestAzure\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Administrateur\Documents\TestAzure\BackTestAzure\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrateur\Documents\TestAzure\BackTestAzure\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrateur\Documents\TestAzure\BackTestAzure\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

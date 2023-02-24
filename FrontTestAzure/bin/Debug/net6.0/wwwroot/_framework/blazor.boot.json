@@ -196,13 +196,13 @@
       "mscorlib.dll": "sha256-KqZqU1imWCwJ9UPDElyoolN8s7Yqhjk67wuOohFN5KA=",
       "netstandard.dll": "sha256-kBK\/QJy7\/skP97jqnvXnOFMrhWS8HZ1bsADFK\/gZkyM=",
       "System.Private.CoreLib.dll": "sha256-3webPuyNUXfAFKY5c1tC\/jBVrjZHelBwvXrr1E9VJuk=",
-      "FrontTestAzure.dll": "sha256-4LfqBlOwV4rp9usoJ6\/7oPW0ijeSCmWvV7IXwwS+BSA="
+      "FrontTestAzure.dll": "sha256-0\/olDmSD4\/mLwPG5gozXTSmRxa162Zczh5P7OyRHH9g="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "FrontTestAzure.pdb": "sha256-LlX1rZ2IvtKSMry\/k5OH1hDtbhD2+UDh8sp40PCAJuI="
+      "FrontTestAzure.pdb": "sha256-JnDQLm6JTJFA4qM\/bGW3ACgK4E9Bl5P3hNl0J97trRc="
     },
     "runtime": {
       "dotnet.6.0.13.b31rv08ecw.js": "sha256-X\/515F1HEzgsDZdY8BJjt8YUwrWngHGZkMnpClhsrpY=",
